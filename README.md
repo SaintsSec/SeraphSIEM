@@ -1,14 +1,7 @@
 # Seraph
 This project aims to provide a comprehensive, all-in-one solution for cybersecurity enthusiasts, professionals, and home users interested in setting up a SOC environment. Seraph is a pre-configured virtual machine (VM) equipped with essential tools and technologies required for Security Information and Event Management (SIEM). Whether you're a cybersecurity student, IT professional, or someone concerned about securing their home network, this project offers a turnkey solution for learning, testing, and implementing cybersecurity practices.
 
----
 
-# Download:
-
-  Link: 
-
-  sha256 Hash: 
-  
 # Key Tools:
 
 - [Wazuh](https://wazuh.com/)
