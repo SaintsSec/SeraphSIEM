@@ -1,0 +1,28 @@
+#----------------------------- Cluster ------------
+cluster.name: <cluster_name>  # This name should be the same for all servers in the cluster
+#----------------------------- Node ---------------
+node.name: <node_name>
+node.master: false
+node.data: false
+node.ingest: false
+node.ml: false
+#----------------------------- Paths --------------
+path.data: /mnt/data/elasticsearch
+path.log: /var/log/elasticsearch
+#----------------------------- Network ------------
+network.host: <node_name>.<domain_name>.com # The domain name should follow the format of csm + the 3 letter name for the site. example: csmddc.
+http.port: 9200
+#----------------------------- Discover -----------
+discovery.seed_hosts: [ "<master1>.<domain_name>.com", "<master2>.<domain_name>.com" ]
+cluster.initial_master_node: [ "<master1>", "<master2>" ]
+#----------------------------- XPack --------------
+xpack.security.enabled: true
+xpack.security.http.ssl.enabled: true
+xpack.security.transport.ssl.enabled: true
+xpack.security.http.ssl.key: /file/path/<node_name>.key
+xpack.security.http.ssl.certificate: /file/path/<node_name>.crt
+xpack.security.http.ssl.certificate_authorities: /file/path/ca.crt
+xpack.security.transport.ssl.key: /file/path/<node_name>.key
+xpack.security.transport.ssl.certificate: /file/path/<node_name>.crt
+xpack.security.transport.ssl.certificate_authorities: /file/path/ca.crt
+xpack.security.authc.api_key.enabled: true
