@@ -25,7 +25,7 @@ This project is licensed under GNU General Public License v3.0 - see the [LICENS
 
 # Disclaimer:
 
-Please note that while this VM provides valuable tools for cybersecurity education and awareness, it is not a substitute for professional-grade security team. Always follow best practices and consult cybersecurity experts for comprehensive protection.
+Please note that while this VM provides valuable tools for cybersecurity education and awareness, it is not a substitute for professional-grade security team. Always follow best practices and consult cybersecurity experts for comprehensive protection. This project is a work in progress. We will continue to evolve this project to fit the needs of the comunity along with documentation to aid in running this tool. 
 
 # Resources:
 
@@ -42,3 +42,7 @@ Discord: [CSI Linux (Official)](https://discord.com/invite/UgmfhBDtnK)
 Website: [CSI Linux](https://csilinux.com/)
 
 Academy: [CSI Linux Academy](https://csilinux.com/academy/)
+
+# Notes:
+
+This project is a work in progress. We will continue to evolve this project to fit the needs of the community. We will be pushing documentation to help in the use of this tool. For recommendations for this tool, please reach out to our team in the CSI Linux [Discord](https://discord.com/invite/UgmfhBDtnK) server
