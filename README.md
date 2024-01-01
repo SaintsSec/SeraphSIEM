@@ -11,6 +11,8 @@ This project aims to provide a comprehensive, all-in-one solution for cybersecur
 
 # Download:
 
+Default logon defender:Defender1!
+
 Link: [CSI SIEM Virtualbox](https://csilinux.com/download/CSI_SIEM_VirtualBox.7z)
 
 sha256 Hash: 1F4A029AFED114EE53BA919049208D4CBE2727BC9F9400A723562E878D956A03
